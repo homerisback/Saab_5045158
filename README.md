@@ -38,8 +38,13 @@ Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their r
 | 810-FA28X8R1H104KRU6 | FA28X8R1H104KRU06  | Through hole MLCC 50V 0.1uF X8R 10% RAD LS:5mm            | C2-3,C5     | 3   |
 | 621-1N4007           | 1N4007-T           | Diode Vr/1000V Io/1A T/R                                  | D1          | 1   |
 
+
+<details>
+  <summary>Have a look at the brand new board</summary>
+
 Here's the new board soldered and ready to mount in car and enjoy a working fan  
 
 ![SAAB rebuild front](5045158_rebuild_front.jpg)
 
 ![SAAB rebuild back](5045158_rebuild_back.jpg)
+</details>
