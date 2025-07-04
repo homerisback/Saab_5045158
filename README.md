@@ -39,6 +39,9 @@ Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their r
 | 621-1N4007           | 1N4007-T           | Diode Vr/1000V Io/1A T/R                                  | D1          | 1   |
 
 
+
+  
+# Work done !
 <details>
   <summary>Have a look at the brand new board</summary>
 
