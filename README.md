@@ -6,14 +6,15 @@ Due to high heating functioning tempreature, main MOSFET on board ends in failin
 ![SAAB ACC diagram](5045158_2.jpg)
 
 This is made to replace PCB and its components, you need to take back from original SAAB part #5045158 :
-  - wiring
+  - wiring and connector
   - housing and screws
   - vertical plate on PCB<br>
   
 ## Build and use this at your own risks.<br>High intensity involved that may lead to fire if not properly build<br>**Check twice** there are no shortcuts or badly soldered components.<br>
 
 Inital intention was to replace faulty part but after a close magnified look that showed the damage, I ended to make a complete 1:1 copy of original board layout under Eagle CAD.<br>
-Schematic & board design files are available up here.<br>
+Schematic & board design files are available up here.
+
 Ordering PCB is doable at [OSHPark](https://oshpark.com/projects/qXP4BEkH/view_design) (**note that they sell boards by sets of 3 minimum**)<br>
 
 Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their ref in table below*  
