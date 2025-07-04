@@ -38,10 +38,10 @@ Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their r
 | 810-FA14C0G2A103JNU6 | FA14C0G2A103JNU06  | Through hole MLCC 100V 0.01uF C0G 5% RAD LS:2.5mm         | C1          | 1   |
 | 810-FA28X8R1H104KRU6 | FA28X8R1H104KRU06  | Through hole MLCC 50V 0.1uF X8R 10% RAD LS:5mm            | C2-3,C5     | 3   |
 | 621-1N4007           | 1N4007-T           | Diode Vr/1000V Io/1A T/R                                  | D1          | 1   |
+<br>
+<br>
+<br>
 
-
-
-  
 # Work done !
 <details>
   
