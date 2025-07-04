@@ -15,7 +15,8 @@ Schematic & board design are available here.
 Ordering PCB is possible at OSHPark (**note that they sell boards by sets of 3 minimum**)
 https://oshpark.com/projects/qXP4BEkH/view_design
 
-Here is a BOM to order parts - I ordered at Mouser's, that's why I left their ref (**note that some parts are SMD - be sure to have ability and tools to solder them**)
+Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their ref*  
+(**note that some parts are SMD - be sure to have ability and tools to solder them**)
 
 | N° Mouser :          | N° de fab. :       | Desc. :                                                   | Client ref. | Qty |
 |----------------------|--------------------|-----------------------------------------------------------|-------------|-----|
@@ -36,3 +37,9 @@ Here is a BOM to order parts - I ordered at Mouser's, that's why I left their re
 | 810-FA14C0G2A103JNU6 | FA14C0G2A103JNU06  | Through hole MLCC 100V 0.01uF C0G 5% RAD LS:2.5mm         | C1          | 1   |
 | 810-FA28X8R1H104KRU6 | FA28X8R1H104KRU06  | Through hole MLCC 50V 0.1uF X8R 10% RAD LS:5mm            | C2-3,C5     | 3   |
 | 621-1N4007           | 1N4007-T           | Diode Vr/1000V Io/1A T/R                                  | D1          | 1   |
+
+Here's the new board soldered and ready to mount in car and enjoy a working fan  
+
+![SAAB rebuild front](5045158_rebuild_front.jpg)
+
+![SAAB rebuild back](5045158_rebuild_back.jpg)
