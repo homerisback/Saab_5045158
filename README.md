@@ -1,22 +1,23 @@
-# Saab_5045158
+# Saab 5045158
 Fan regulator mainboard/PCB to replace *SAAB 9-3 1998-2003* faulty regulator at reasonnable costs. #36 on diagram below
 
-Due to high heating functioning T° of main MOSFET on board, it ends in failing and board/soldering pads may be damaged as well as components.
+Due to high heating functioning tempreature, main MOSFET on board ends in failing. Board/soldering pads may be damaged as well as components.
 
 ![SAAB ACC diagram](5045158_2.jpg)
 
 This is made to replace PCB and its components, you need to take back from original SAAB part #5045158 :
   - wiring
   - housing and screws
-  - vertical plate on PCB
+  - vertical plate on PCB<br>
+  
+## Build and use this at your own risks.<br>High intensity involved that may lead to fire if not properly build<br>**Check twice** there are no shortcuts or badly soldered components.<br>
 
-Inital intention was to replace faulty part but after a close magnified look that showed the damage, I ended to make a complete 1:1 copy of original board layout under Eagle CAD.
-Schematic & board design are available here.
-Ordering PCB is possible at OSHPark (**note that they sell boards by sets of 3 minimum**)
-https://oshpark.com/projects/qXP4BEkH/view_design
+Inital intention was to replace faulty part but after a close magnified look that showed the damage, I ended to make a complete 1:1 copy of original board layout under Eagle CAD.<br>
+Schematic & board design files are available up here.<br>
+Ordering PCB is doable at [OSHPark](https://oshpark.com/projects/qXP4BEkH/view_design) (**note that they sell boards by sets of 3 minimum**)<br>
 
-Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their ref*  
-(**note that some parts are SMD - be sure to have ability and tools to solder them**)
+Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their ref in table below*  
+(***note that some parts are SMD - be sure to have ability and tools to solder them***)
 
 | N° Mouser :          | N° de fab. :       | Desc. :                                                   | Client ref. | Qty |
 |----------------------|--------------------|-----------------------------------------------------------|-------------|-----|
@@ -43,8 +44,9 @@ Here is a BOM to order parts - *I ordered at Mouser's, that's why I left their r
   
 # Work done !
 <details>
+  
   <summary>Have a look at the brand new board</summary>
-
+  
 Here's the new board soldered and ready to mount in car and enjoy a working fan  
 
 ![SAAB rebuild front](5045158_rebuild_front.jpg)
